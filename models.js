@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+npm const mongoose = require('mongoose');
 
 const blogPostSchema = mongoose.Schema({
   author: {
